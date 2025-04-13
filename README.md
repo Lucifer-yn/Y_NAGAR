@@ -2,16 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Nagar</h1>
-<h3 align="center">A Curious Coder | Electronics & Data Enthusiast | Third Year Student</h3>
-
----
-
-<!-- Typing animation banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&width=435&lines=System+Online...;Initializing+AI+Matrix...;Hello+World+from+Yash+Nagar;AI+Engineer+|+Web+Dev+|+Arduino+Wizard" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Yash Nagar</h1>
 <h3 align="center">🔧 Full Stack Developer | 🤖 AI Engineer | 🔌 Arduino Coder | 🎮 Techno-Gamer</h3>
 
 ---
